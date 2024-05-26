@@ -1,0 +1,49 @@
+# Gradle files
+.gradle/
+/build/
+/app/build/
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log and Android Studio generated files
+*.log
+.idea/
+.DS_Store
+.idea/workspace.xml
+.idea/libraries
+.idea/modules.xml
+.idea/.name
+.idea/vcs.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/caches/
+.idea/httpRequests/
+.idea/assetWizardSettings.xml
+.idea/jsLibraryMappings.xml
+.idea/dictionaries/
+.idea/encodings.xml
+
+# IntelliJ
+*.iml
+.idea_modules/
+.classpath
+.project
+.settings/
+
+# External native build folder generated in Android Studio 2.2 and later
+.externalNativeBuild/
+
+# Google Services (e.g. APIs or Firebase)
+# google-services.json
+
+# Android Studio Profiling files
+*.hprof
+
+# Virtual device files
+*.hvd
+.hvd/
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# End of default exclusions.
